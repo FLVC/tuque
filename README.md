@@ -1,4 +1,4 @@
-# Tuque [![Build Status](https://travis-ci.org/Islandora/tuque.png?branch=1.x)](https://travis-ci.org/Islandora/tuque)
+# Tuque [![Build Status](https://travis-ci.org/Islandora/tuque.png?branch=1.12)](https://travis-ci.org/Islandora/tuque)
 
 ## Introduction
 
@@ -46,7 +46,7 @@ Having problems or solved a problem? Check out the Islandora google groups for a
 
 Current maintainers:
 
-* [William Panting](https://github.com/willtp87)
+* [Jonathan Green](https://github.com/jonathangreen)
 * [Diego Pino](https://github.com/DiegoPino)
 
 ## Development
